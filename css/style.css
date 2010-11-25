@@ -1,0 +1,15 @@
+.treegrow li {
+  list-style-type: none;
+}
+
+.treegrow ul.hidden {
+  display:none;
+}
+
+.treegrow img.expander {
+  vertical-align: top;
+}
+
+.treegrow div.node {
+  display:inline;
+}

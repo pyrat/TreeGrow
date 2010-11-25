@@ -1,0 +1,5 @@
+h1. TreeGrow
+
+A wee javascript tree implementation which relies on Jquery. This is not yet a plugin and may not be featured enough for what you need.
+
+This relies on some complex view rendering to get the correct html which the javascript hooks into. Will hopefully provide example rails / php helpers for this in the future.
